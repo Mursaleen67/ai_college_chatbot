@@ -59,10 +59,10 @@ http://127.0.0.1:8000
 ## Screenshots
 
 ### Home Page
-![Home Page](ai_college_chatbot/screenshots/home.png)
+![Home Page](screenshots/home.png)
 
 ### Chatbot Interface
-![Chatbot](ai_college_chatbot/screenshots/chatbot.png)
+![Chatbot](screenshots/chatbot.png)
 ## Future Improvements
 
 - Add advanced AI response generation

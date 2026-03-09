@@ -58,12 +58,11 @@ http://127.0.0.1:8000
 
 ## Screenshots
 
+### Home Page
+![Home Page](ai_college_chatbot/screenshots/home.png)
+
 ### Chatbot Interface
-![Chatbot](screenshots/chatbot.png)
-
-### Result Page
-![Result](screenshots/result.png)
-
+![Chatbot](ai_college_chatbot/screenshots/chatbot.png)
 ## Future Improvements
 
 - Add advanced AI response generation

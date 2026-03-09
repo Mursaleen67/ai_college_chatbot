@@ -1,0 +1,51 @@
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+env/
+ENV/
+
+# Django database
+db.sqlite3
+
+# Django media uploads
+media/
+
+# Static collected files
+staticfiles/
+
+# Environment variables
+.env
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Migrations cache
+*/migrations/__pycache__/
+
+# Python egg files
+*.egg-info/
+
+# Build files
+build/
+dist/
+
+# Temporary files
+*.tmp
+*.bak
+
+# IDE settings
+.vscode/
+.idea/

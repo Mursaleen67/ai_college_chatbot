@@ -1,0 +1,4 @@
+Django
+ollama
+requests
+beautifulsoup4

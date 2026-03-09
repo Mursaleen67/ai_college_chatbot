@@ -72,5 +72,7 @@ http://127.0.0.1:8000
 - Deploy the chatbot online
 
 ## Author
+**Mohammed Mursaleen**
 
-Developed as a Django AI project for learning and practice.
+## License
+This project is created for learning and educational purposes using Python and Django. No official license is applied..
